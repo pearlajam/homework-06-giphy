@@ -1,0 +1,22 @@
+.btn {
+    margin: 2px;
+}
+
+.gifs{
+    text-align: center;
+}
+
+.topic-form {
+    margin: 2px;
+    background-color: skyblue;
+}
+
+.imageContainer{
+    border-bottom: 2px solid white;
+    margin-top: 5px;
+}
+
+.favoriteSection{
+    display: none;
+}
+
